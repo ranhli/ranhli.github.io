@@ -3,9 +3,15 @@
 Ran Li:
   name: "Ran Li"
   # uri         : "http://name.com"
+<<<<<<< HEAD
   email: "rl3424@columbia.edu"
   bio: "Undergraduate in CS at Columbia University"
   avatar: "profile.png"
+=======
+  email       : "rl3424@columbia.edu"
+  bio         : "Undergraduate in CS at Columbia University"
+  avatar      : "profile.png"
+>>>>>>> b1487a49e5633855333e9bf6e806d428bc6f3fc3
   # twitter     : "name"
   # google_plus : "Name"
 # Name2 Name2:
