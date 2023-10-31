@@ -10,8 +10,12 @@ Ran Li:
 =======
   email       : "rl3424@columbia.edu"
   bio         : "Undergraduate in CS at Columbia University"
+<<<<<<< HEAD
   avatar      : "profile.png"
 >>>>>>> b1487a49e5633855333e9bf6e806d428bc6f3fc3
+=======
+  avatar      : "profile.jpg"
+>>>>>>> parent of b1487a4 (Update authors.yml)
   # twitter     : "name"
   # google_plus : "Name"
 # Name2 Name2:
