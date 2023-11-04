@@ -5,7 +5,7 @@ permalink: /publication/mobile-ai-challenge-report
 excerpt: '•	Collaborated with graduate students on image restoration. Presented model to ETH Zurich professor Andrey Ignatov.
 •	Earned highest metric score among over 100 teams. Publication available at: https://arxiv.org/abs/2211.03885.'
 date: 2022-10-01
-# venue: 'Journal 1'
+venue: ''
 paperurl: 'https://arxiv.org/abs/2211.03885'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
