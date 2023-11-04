@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://ranhli.github.io/files/resume.pdf" type="application/pdf" width="600px" height="500px" />
-
-<!--
-
 # Education
 
 - B.S. in GitHub, GitHub University, 2012
@@ -47,18 +43,18 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
+# Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Teaching
-======
+# Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+# Service and leadership
+
+- Currently signed in to 43 different slack teams
