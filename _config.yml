@@ -7,10 +7,10 @@
 
 # Site Settings
 locale: "en-US"
-title: "Ran (Henry) Li"
+title: "Ran Li"
 title_separator: "-"
-name: &name "Ran Li"
-description: &description "Undergraduate in Computer Science at Columbia University"
+name: &name "Ran (Henry) Li"
+description: &description "Computer Science @ Columbia University"
 url: https://ranhli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "ranhli/ranhli.github.io"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Ran Li"
+  name: "Ran (Henry) Li"
   avatar: "profile.png"
-  bio: "Undergrad in CS at Columbia Engineering"
+  bio: "Computer Science @ Columbia University"
   location: "New York, NY, USA"
   employer:
   pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

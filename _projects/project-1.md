@@ -1,10 +1,6 @@
 ---
-title: "Paper Title Number 1"
-excerpt: "This paper is about the number 1. The number 2 is left for future work."
+title: "Major League Hackathon"
+excerpt: "•	Proposed and developed an AI model for credit card number recognition with PyTorch in collaboration with 3 peers.
+•	Achieved an accuracy of 99%, comparable to products of college seniors. Nominated for the best security hack prize.
+"
 ---
-
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
