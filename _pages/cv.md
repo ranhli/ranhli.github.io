@@ -7,9 +7,11 @@ redirect_from:
   - /resume
 ---
 
-<embed src="{{ site.baseurl }}/files/resume.pdf" width="600" height="700" type='application/pdf'>
+{% include base_path %}
 
-<!-- {% include base_path %}
+<embed src="https://ranhli.github.io/files/resume.pdf" type="application/pdf" width="600px" height="500px" />
+
+<!--
 
 # Education
 
