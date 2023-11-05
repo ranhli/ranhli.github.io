@@ -1,7 +1,9 @@
 ---
-title: "Major League Hackathon"
-excerpt: "• Proposed and developed an AI model for credit card number recognition with PyTorch in collaboration with 3 peers.           
-• Achieved an accuracy of 99%, comparable to products of college seniors. Nominated for the best security hack prize."
+title: "Book My Vacation"
+excerpt: "Developed a dynamic web application with Node.js and MongoDB"
 ---
 
-Program Website: [https://hackwashu.com/](https://hackwashu.com/)
+• Implemented a dynamic web application for B&B rental and deployed it to public [here](https://app-to3i.onrender.com).  
+• Utilized Express framework, MongoDB database, Git version control, and REST API like MapBox and Cloudinary.
+
+GitHub Page: [https://github.com/ranhli/Find-A-Home](https://github.com/ranhli/Find-A-Home)

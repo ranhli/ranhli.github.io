@@ -1,7 +1,9 @@
 ---
-title: "Book My Vacation"
-excerpt: "• Implemented a dynamic web application for B&B rental and deployed it to public [here](https://app-to3i.onrender.com).           
-• Utilized Express framework, MongoDB database, Git version control, and REST API like MapBox and Cloudinary."
+title: "Major League Hackathon"
+excerpt: "Developed a credit card number recognition network"
 ---
 
-GitHub Page: [https://github.com/ranhli/Find-A-Home](https://github.com/ranhli/Find-A-Home)
+• Proposed and developed an AI model for credit card number recognition with PyTorch in collaboration with 3 peers.  
+• Achieved an accuracy of 99%, comparable to products of college seniors. Nominated for the best security hack prize.
+
+Program Website: [https://hackwashu.com/](https://hackwashu.com/)
