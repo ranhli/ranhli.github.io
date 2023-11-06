@@ -10,7 +10,7 @@ redirect_from:
 
 I am Henry, a sophomore student majoring Computer Science at [Columbia Engineering](https://www.cs.columbia.edu/).
 
-I am broadly interested in Artificial Intelligence research, especially the domains of Computer Vision and Human-Computer Interaction. In the past, I have worked as an research assistant on medical imaging at [Computational Imaging Group](https://cigroup.wustl.edu/), and image processing at OPPO.
+I am broadly interested in Artificial Intelligence research, especially the domain of Computer Vision. In the past, I have worked as an research assistant on medical imaging at [Computational Imaging Group](https://cigroup.wustl.edu/), and image processing at OPPO.
 
 I am also a full-stack web developer skilled in React, Node.js, and SQL. Outside of work, I enjoy street photography and filmmaking.
 
