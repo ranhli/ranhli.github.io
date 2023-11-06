@@ -1,9 +1,9 @@
 ---
-title: "Book My Vacation"
-excerpt: "Developed a dynamic web application with Node.js and MongoDB"
+title: "AI for Medical Imaging"
+excerpt: "Applied the diffusion model to under-sampled MRI reconstruction"
 ---
 
-• Implemented a dynamic web application for B&B rental and deployed it to public [here](https://app-to3i.onrender.com).  
-• Utilized Express framework, MongoDB database, Git version control, and REST API like MapBox and Cloudinary.
+• Applied the diffusion model (DDPM) to under-sampled multi-coil MRI reconstruction using PyTorch. Reported in monthly group meetings to professor Ulugbek Kamilov. Earned A+ in senior-level independent study.
+• Implemented a mathematical model into the sampling algorithm and further enhanced PSNR metric by over 2dB.
 
-GitHub Page: [https://github.com/ranhli/Find-A-Home](https://github.com/ranhli/Find-A-Home)
+Demo keynote available [here](https://drive.google.com/file/d/1XQvE_LByDbtvfKH1XnMIKDBLR3mrLUks/view?usp=drive_link)

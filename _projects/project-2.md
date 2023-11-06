@@ -1,9 +1,7 @@
 ---
-title: "Major League Hackathon"
-excerpt: "Developed a credit card number recognition network"
+title: "Image Quality Assessment (IQA)"
+excerpt: "Worked on IQA for a RL-based image restoration model"
 ---
 
-• Proposed and developed an AI model for credit card number recognition with PyTorch in collaboration with 3 peers.  
-• Achieved an accuracy of 99%, comparable to products of college seniors. Nominated for the best security hack prize.
-
-Program Website: [https://hackwashu.com/](https://hackwashu.com/)
+• Worked on Image Quality Assessment (IQA) for a reinforcement learning model for computational photography at OPPO.
+• Improved model accuracy and interpretability. Developed networks to produce saliency maps of optical distortions.
