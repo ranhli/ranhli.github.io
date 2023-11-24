@@ -7,4 +7,4 @@ excerpt: "Applied the diffusion model to under-sampled MRI reconstruction"
 
 • Implemented a mathematical model into the sampling algorithm and further enhanced PSNR metric by over 2dB.
 
-Demo keynote available [here](https://drive.google.com/file/d/1XQvE_LByDbtvfKH1XnMIKDBLR3mrLUks/view?usp=drive_link)
+Project report available [here](https://drive.google.com/file/d/1mtZmfoesj_R1tTK2pcXFZwkb7oaCjJ0a/view)
